@@ -1,0 +1,7 @@
+yfinance
+arch
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
